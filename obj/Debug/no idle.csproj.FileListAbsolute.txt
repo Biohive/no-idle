@@ -8,3 +8,13 @@ S:\Repositories\ashton-vs\no-idle\obj\Debug\no idle.csproj.GenerateResource.cach
 S:\Repositories\ashton-vs\no-idle\obj\Debug\no idle.csproj.CoreCompileInputs.cache
 S:\Repositories\ashton-vs\no-idle\obj\Debug\no idle.exe
 S:\Repositories\ashton-vs\no-idle\obj\Debug\no idle.pdb
+S:\Repositories\ashton\no-idle\bin\Debug\no idle.exe.config
+S:\Repositories\ashton\no-idle\bin\Debug\no idle.exe
+S:\Repositories\ashton\no-idle\bin\Debug\no idle.pdb
+S:\Repositories\ashton\no-idle\obj\Debug\no idle.csproj.AssemblyReference.cache
+S:\Repositories\ashton\no-idle\obj\Debug\no_idle.Form1.resources
+S:\Repositories\ashton\no-idle\obj\Debug\no_idle.Properties.Resources.resources
+S:\Repositories\ashton\no-idle\obj\Debug\no idle.csproj.GenerateResource.cache
+S:\Repositories\ashton\no-idle\obj\Debug\no idle.csproj.CoreCompileInputs.cache
+S:\Repositories\ashton\no-idle\obj\Debug\no idle.exe
+S:\Repositories\ashton\no-idle\obj\Debug\no idle.pdb
